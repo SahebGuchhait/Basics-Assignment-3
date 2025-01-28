@@ -1,0 +1,20 @@
+/* app.component.css */
+.text-white {
+    color: white;
+}
+
+.container {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+button {
+    padding: 8px 12px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+p {
+    font-size: 16px;
+    font-weight: bold;
+}
